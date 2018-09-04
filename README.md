@@ -2,10 +2,11 @@
 
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/1.png"  width="270px"><br/>
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/2.png"  width="270px"><br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/3.jpg"  width="270px"><br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/4.jpg"  width="270px"><br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/5.jpg"  width="270px"><br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/6.jpg"  width="270px"><br/>
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/3.png"  width="270px"><br/>
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/4.png"  width="270px"><br/>
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/5.png"  width="270px"><br/>
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/6.png"  width="270px"><br/>
+
 
 ##使用方法##
 ###初始化###
