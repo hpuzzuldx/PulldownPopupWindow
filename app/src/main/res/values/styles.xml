@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="xiLandingpageappnumDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@color/drop_pop_menu_bg_color</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateAlwaysVisible</item>
+    </style>
+
+    <!--此处白天、夜间模式实现方式-->
+    <attr name="background1" format="reference|color" />
+    <attr name="textcolor1" format="reference|color" />
+    <attr name="background2" format="reference|color" />
+    <attr name="drawdemo" format="reference" />
+
+    <!--利用theme获取attr的值，如果主题中的值是res引用值可以得到resourceid,否则只能直接data获取数据-->
+    <style name="dayTheme" parent="AppTheme">
+        <item name="background1">#ffffff</item>
+        <item name="background2">#f3f3f3</item>
+        <item name="textcolor1">#000000</item>
+        <item name="drawdemo">@drawable/industry_collection_icon_black</item>
+    </style>
+
+    <style name="nightTheme" parent="AppTheme">
+        <item name="background1">#000000</item>
+        <item name="background2">#171717</item>
+        <item name="textcolor1">#ffffff</item>
+        <item name="drawdemo">@drawable/collection_success_blue</item>
+    </style>
+
+</resources>

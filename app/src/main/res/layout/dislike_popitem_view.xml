@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_text_container"
+    android:layout_width="100dp"
+    android:layout_height="@dimen/dislike_menuitem_height"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:clickable="true"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/dislike_unselected_itembg"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="文字"
+        android:ellipsize="end"
+        android:textColor="#222222"
+        android:textSize="12dp" />
+
+</LinearLayout>
