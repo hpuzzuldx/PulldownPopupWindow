@@ -1,12 +1,11 @@
-一个带有菜单的根据点击View 显示菜单位置的的android的popupwindow的使用。
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/1.jpg"  width="270px">
-<br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/2.jpg"  width="270px"><br/>
+一个带有菜单的根据点击View 显示菜单位置的的android的popupwindow的使用。   <br/>
+
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/1.png"  width="270px"><br/>
+<img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/2.png"  width="270px"><br/>
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/3.jpg"  width="270px"><br/>
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/4.jpg"  width="270px"><br/>
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/5.jpg"  width="270px"><br/>
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/6.jpg"  width="270px"><br/>
-<img src="https://github.com/hpuzzuldx/PulldownPopupWindowDemo/blob/master/images/6.jpg"  width="270px"><br/>
 
 ##使用方法##
 ###初始化###
