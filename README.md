@@ -8,18 +8,19 @@
 <img src="https://github.com/hpuzzuldx/PulldownPopupWindow/blob/master/images/6.png"  width="270px"><br/>
 
 
-##使用方法##
-###初始化###
-     '''
+## 使用方法  
+### 初始化
+    ```
        PullDownMenu dropPopMenu = new PullDownMenu(this);
         dropPopMenu.setTriangleIndicatorViewColor(Color.WHITE);
         dropPopMenu.setBackgroundResource(R.drawable.dislike_popmenu_white_shap);
 
         dropPopMenu.setMenuList(getIconMenuList());
-        dropPopMenu.show(view);'''
+        dropPopMenu.show(view);
+        ```
 
-###数组设置###
-'''
+### 数组设置
+```
          private ArrayList<MenuItem> getIconMenuList() {
                 ArrayList<MenuItem> list = new ArrayList<>();
                 list.add(new MenuItem( 1, "选项1"));
@@ -29,4 +30,5 @@
                 list.add(new MenuItem( 5, "选项5"));
                 return list;
             }
-            '''
+            ```
+          
